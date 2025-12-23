@@ -20,6 +20,10 @@ Using over 400,000 property records, I built and compared multiple linear regres
 ## Files
 - `DS_Final_Project.ipynb`: Full analysis and modeling workflow
 - `Policy_Brief.pdf`: Written summary of findings and implications
+- 2023-2025 Assessment Data:
+  - `fy2023-property-assessment.csv`
+  - `fy2024-property-assessment.csv`
+  - `fy2025-property-assessment.csv`
 
 ## Data Source
 City of Boston Assessing Department via data.boston.gov
